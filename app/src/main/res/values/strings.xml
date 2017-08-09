@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Poc_SurfaceView</string>
+
+    <string name="btn_camera">Take Picture</string>
+    <string name="btn_camera_2">Camera 2</string>
+    <string name="text_mesg">Test my camera here</string>
+</resources>
